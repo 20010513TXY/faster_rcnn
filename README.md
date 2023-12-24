@@ -1,3 +1,4 @@
+#参考https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_object_detection/faster_rcnn，仅在此基础上做了注释
 # Faster R-CNN
 
 ## 该项目主要是来自pytorch官方torchvision模块中的源码
